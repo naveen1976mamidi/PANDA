@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PANDA", "PatientRepository\PANDA.csproj", "{ECEC2BAB-1E49-47C3-AA09-8BE699D245F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECEC2BAB-1E49-47C3-AA09-8BE699D245F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECEC2BAB-1E49-47C3-AA09-8BE699D245F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECEC2BAB-1E49-47C3-AA09-8BE699D245F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECEC2BAB-1E49-47C3-AA09-8BE699D245F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B6E02A0-7BF9-4056-80F2-E013F4DA3645}
+	EndGlobalSection
+EndGlobal
